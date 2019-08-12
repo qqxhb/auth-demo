@@ -1,0 +1,6 @@
+server:
+	port: 8088
+jwt:
+ config:
+    key: auth-jwt
+    ttl: 360000
